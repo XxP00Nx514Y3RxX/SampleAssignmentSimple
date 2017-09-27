@@ -7,6 +7,7 @@
 
 void setup() {
   size(600, 600);
+  rect(10, 10, 100, 100);
 }
 
 void draw() {
